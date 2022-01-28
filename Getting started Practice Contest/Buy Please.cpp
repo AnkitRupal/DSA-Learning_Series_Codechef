@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
 
 /*
@@ -13,7 +13,8 @@ using namespace std;
 			Total Price = (a * x) + (b * y)
 */
 
-int main() {
+int main()
+{
 	int a, b, x, y;
 	cin >> a >> b >> x >> y;
 	cout << (a * x) + (b * y) << "\n";
