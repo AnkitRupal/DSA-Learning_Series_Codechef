@@ -1,5 +1,5 @@
 /*
-    REVERE STAR PATTERN
+    REVERE STAR PATTERN 
 */
 #include "bits/stdc++.h"
 using namespace std;
